@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b1986f0-8853-4a2b-8678-46a1e9cb00ad" name="Changes" comment="" />
+    <list default="true" id="7b1986f0-8853-4a2b-8678-46a1e9cb00ad" name="Changes" comment="builder, bridge, proxy patterns">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/structural/ForAmendClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/ApplicationCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/ApplicationCreator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,11 +190,40 @@
       <workItem from="1717332467596" duration="2900000" />
       <workItem from="1717360086825" duration="5000" />
       <workItem from="1717443615811" duration="4428000" />
-      <workItem from="1717531479969" duration="1222000" />
+      <workItem from="1717531479969" duration="2058000" />
     </task>
+    <task id="LOCAL-00001" summary="builder, bridge, proxy patterns">
+      <option name="closed" value="true" />
+      <created>1717533352045</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717533352045</updated>
+    </task>
+    <task id="LOCAL-00002" summary="builder, bridge, proxy patterns">
+      <option name="closed" value="true" />
+      <created>1717533368794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717533368794</updated>
+    </task>
+    <task id="LOCAL-00003" summary="builder, bridge, proxy patterns">
+      <option name="closed" value="true" />
+      <created>1717533396001</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717533396001</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="builder, bridge, proxy patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="builder, bridge, proxy patterns" />
   </component>
 </project>

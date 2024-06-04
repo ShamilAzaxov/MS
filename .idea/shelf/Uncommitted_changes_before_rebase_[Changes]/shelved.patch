@@ -1,0 +1,117 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"7b1986f0-8853-4a2b-8678-46a1e9cb00ad\" name=\"Changes\" comment=\"builder, bridge, proxy patterns\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/structural/ForAmendClass.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/ApplicationCreator.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/ApplicationCreator.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Enum\" />\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2gXusCk9TgOXLUcbN3aqDizYhz5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.AdapterPatternDemo.executor\": \"Run\",\r\n    \"Application.ApplicationCreator.executor\": \"Run\",\r\n    \"Application.Demo.executor\": \"Run\",\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"Application.Person.executor\": \"Run\",\r\n    \"Application.ProjectRunner.executor\": \"Run\",\r\n    \"Application.Software.executor\": \"Run\",\r\n    \"Application.sh.tech.Main.executor\": \"Run\",\r\n    \"Application.sh.tech.for_factory.Main.executor\": \"Run\",\r\n    \"Application.sh.tech.lesson3.builder.setter_based.Main.executor\": \"Run\",\r\n    \"Application.sh.tech.lesson3.factory.example2.Main.executor\": \"Run\",\r\n    \"Application.sh.tech.lesson3.singleton.Main.executor\": \"Run\",\r\n    \"Application.sh.tech.lesson3_patterns.abstract_factory.Main.executor\": \"Run\",\r\n    \"Application.sh.tech.lesson3_patterns.prototype.example1.example2.Main.executor\": \"Run\",\r\n    \"Application.sh.tech.lesson3_patterns.prototype.example2.Main.executor\": \"Run\",\r\n    \"Application.sh.tech.lesson4_patterns.adapter.example2.AdapterPatternDemo.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"shamil\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/shami/Desktop/MS-26/java_proyects/ingress-ms-lessons\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/shami/Desktop/MyJavaProjects/ingress-ms-lessons/src/main/java/sh/tech/Main.java\",\r\n    \"settings.editor.selected.configurable\": \"database.query.execution\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  },\r\n  \"keyToStringList\": {\r\n    \"DatabaseDriversLRU\": [\r\n      \"postgresql\"\r\n    ]\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\shami\\Desktop\\MS-26\\java_proyects\\ingress-ms-lessons\\src\\main\\java\\sh\\tech\\lesson2_solid\" />\r\n      <recent name=\"C:\\Users\\shami\\Desktop\\MS-26\\java_proyects\\ingress-ms-lessons\\src\\main\\java\\sh\\tech\\lesson2_solid\\interface_correct\" />\r\n      <recent name=\"C:\\Users\\shami\\Desktop\\MS-26\\java_proyects\\ingress-ms-lessons\\src\\main\\java\\sh\\tech\\lesson2_solid\\l_correct\" />\r\n      <recent name=\"C:\\Users\\shami\\Desktop\\MS-26\\java_proyects\\ingress-ms-lessons\\src\\main\\java\\sh\\tech\\lesson2_solid\\l_broken\" />\r\n      <recent name=\"C:\\Users\\shami\\Desktop\\MS-26\\java_proyects\\ingress-ms-lessons\\src\\main\\java\\sh\\tech\\lesson2_solid\\s_correct\" />\r\n    </key>\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"sh.tech.lesson3.factory\" />\r\n      <recent name=\"sh.tech.lesson2_solid.liskow_substitution.correct_2.third\" />\r\n      <recent name=\"sh.tech.lesson2_solid.liskow_substitution.correct_2.second\" />\r\n      <recent name=\"sh.tech.lesson2_solid.liskow_substitution.correct_2.first\" />\r\n      <recent name=\"sh.tech.lesson2_solid.dependency_inversion.correct\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.sh.tech.for_factory.Main\">\r\n    <configuration name=\"ApplicationCreator\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"sh.tech.lesson4_patterns.bridge.ApplicationCreator\" />\r\n      <module name=\"ingress-ms-lessons\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"sh.tech.lesson4_patterns.bridge.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Demo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"sh.tech.for_factory.Demo\" />\r\n      <module name=\"ingress-ms-lessons\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"sh.tech.for_factory.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"sh.tech.lesson3_patterns.builder.inner_class_based.Main\" />\r\n      <module name=\"ingress-ms-lessons\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"sh.tech.lesson3_patterns.builder.inner_class_based.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ProjectRunner\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"sh.tech.lesson4_patterns.proxy.ProjectRunner\" />\r\n      <module name=\"ingress-ms-lessons\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"sh.tech.lesson4_patterns.proxy.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"sh.tech.for_factory.Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"sh.tech.for_factory.Main\" />\r\n      <module name=\"ingress-ms-lessons\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"sh.tech.for_factory.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.sh.tech.for_factory.Main\" />\r\n        <item itemvalue=\"Application.Demo\" />\r\n        <item itemvalue=\"Application.ApplicationCreator\" />\r\n        <item itemvalue=\"Application.Main\" />\r\n        <item itemvalue=\"Application.ProjectRunner\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"jdk-17.0.9-jbrsdk-17.0.9-f644763e9732-26399851\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"7b1986f0-8853-4a2b-8678-46a1e9cb00ad\" name=\"Changes\" comment=\"\" />\r\n      <created>1715856451173</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1715856451173</updated>\r\n      <workItem from=\"1715856454785\" duration=\"32000\" />\r\n      <workItem from=\"1715856544320\" duration=\"1709000\" />\r\n      <workItem from=\"1716013906673\" duration=\"1095000\" />\r\n      <workItem from=\"1716059893280\" duration=\"24443000\" />\r\n      <workItem from=\"1716364176801\" duration=\"20090000\" />\r\n      <workItem from=\"1716985916056\" duration=\"2308000\" />\r\n      <workItem from=\"1717070327676\" duration=\"3319000\" />\r\n      <workItem from=\"1717332467596\" duration=\"2900000\" />\r\n      <workItem from=\"1717360086825\" duration=\"5000\" />\r\n      <workItem from=\"1717443615811\" duration=\"4428000\" />\r\n      <workItem from=\"1717531479969\" duration=\"2058000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"builder, bridge, proxy patterns\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717533352045</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717533352045</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"builder, bridge, proxy patterns\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717533368794</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717533368794</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"builder, bridge, proxy patterns\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1717533396001</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1717533396001</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"builder, bridge, proxy patterns\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"builder, bridge, proxy patterns\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 36f9cfcc7192db72cfddc47803d711e173d814f8)
++++ b/.idea/workspace.xml	(date 1717918676750)
+@@ -4,10 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="7b1986f0-8853-4a2b-8678-46a1e9cb00ad" name="Changes" comment="builder, bridge, proxy patterns">
+-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/structural/ForAmendClass.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/ApplicationCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/ApplicationCreator.java" afterDir="false" />
+-    </list>
++    <list default="true" id="7b1986f0-8853-4a2b-8678-46a1e9cb00ad" name="Changes" comment="builder, bridge, proxy patterns" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -34,45 +31,45 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.AdapterPatternDemo.executor": "Run",
+-    "Application.ApplicationCreator.executor": "Run",
+-    "Application.Demo.executor": "Run",
+-    "Application.Main.executor": "Run",
+-    "Application.Person.executor": "Run",
+-    "Application.ProjectRunner.executor": "Run",
+-    "Application.Software.executor": "Run",
+-    "Application.sh.tech.Main.executor": "Run",
+-    "Application.sh.tech.for_factory.Main.executor": "Run",
+-    "Application.sh.tech.lesson3.builder.setter_based.Main.executor": "Run",
+-    "Application.sh.tech.lesson3.factory.example2.Main.executor": "Run",
+-    "Application.sh.tech.lesson3.singleton.Main.executor": "Run",
+-    "Application.sh.tech.lesson3_patterns.abstract_factory.Main.executor": "Run",
+-    "Application.sh.tech.lesson3_patterns.prototype.example1.example2.Main.executor": "Run",
+-    "Application.sh.tech.lesson3_patterns.prototype.example2.Main.executor": "Run",
+-    "Application.sh.tech.lesson4_patterns.adapter.example2.AdapterPatternDemo.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "shamil",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/Users/shami/Desktop/MS-26/java_proyects/ingress-ms-lessons",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "onboarding.tips.debug.path": "C:/Users/shami/Desktop/MyJavaProjects/ingress-ms-lessons/src/main/java/sh/tech/Main.java",
+-    "settings.editor.selected.configurable": "database.query.execution",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.AdapterPatternDemo.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ApplicationCreator.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ProjectRunner.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Software.executor&quot;: &quot;Run&quot;,
++    &quot;Application.sh.tech.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.sh.tech.for_factory.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.sh.tech.lesson3.builder.setter_based.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.sh.tech.lesson3.factory.example2.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.sh.tech.lesson3.singleton.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.sh.tech.lesson3_patterns.abstract_factory.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.sh.tech.lesson3_patterns.prototype.example1.example2.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.sh.tech.lesson3_patterns.prototype.example2.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.sh.tech.lesson4_patterns.adapter.example2.AdapterPatternDemo.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;shamil&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/shami/Desktop/MS-26/java_proyects/ingress-ms-lessons&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/shami/Desktop/MyJavaProjects/ingress-ms-lessons/src/main/java/sh/tech/Main.java&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;database.query.execution&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   },
+-  "keyToStringList": {
+-    "DatabaseDriversLRU": [
+-      "postgresql"
++  &quot;keyToStringList&quot;: {
++    &quot;DatabaseDriversLRU&quot;: [
++      &quot;postgresql&quot;
+     ]
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\shami\Desktop\MS-26\java_proyects\ingress-ms-lessons\src\main\java\sh\tech\lesson2_solid" />
+@@ -158,10 +155,10 @@
+     <recent_temporary>
+       <list>
+         <item itemvalue="Application.sh.tech.for_factory.Main" />
++        <item itemvalue="Application.ProjectRunner" />
++        <item itemvalue="Application.Main" />
+         <item itemvalue="Application.Demo" />
+         <item itemvalue="Application.ApplicationCreator" />
+-        <item itemvalue="Application.Main" />
+-        <item itemvalue="Application.ProjectRunner" />
+       </list>
+     </recent_temporary>
+   </component>

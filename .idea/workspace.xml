@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b1986f0-8853-4a2b-8678-46a1e9cb00ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/for_factory/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/for_factory/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/for_factory/Dialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/for_factory/Hassan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/for_factory/Heart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/for_factory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/for_factory/WindowsButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/for_factory/WindowsDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/ApplicationCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/BankSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/JavaDev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/KotlinDev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/StockExchange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sh/tech/lesson3_patterns/builder/inner_class_based/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson3_patterns/builder/inner_class_based/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sh/tech/lesson3_patterns/singleton/lazy/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson3_patterns/singleton/lazy/SingletonLazy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/proxy/ProjectRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/proxy/ProjectRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/structural/ForRebaseClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="shamil" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{

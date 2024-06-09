@@ -9,5 +9,10 @@ public class ApplicationCreator {
 
         for (Application application : applications)
             application.developApplication();
+
+        //new line for amend
+        //second line for amend
+        //and 3 rd line also
+
     }
 }

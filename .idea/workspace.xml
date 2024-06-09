@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="7b1986f0-8853-4a2b-8678-46a1e9cb00ad" name="Changes" comment="builder, bridge, proxy patterns">
       <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/structural/ForAmendClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/ApplicationCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/ApplicationCreator.java" afterDir="false" />
+
+
+    <list default="true" id="7b1986f0-8853-4a2b-8678-46a1e9cb00ad" name="Changes" comment="builder, bridge, proxy patterns">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
+    <list default="true" id="7b1986f0-8853-4a2b-8678-46a1e9cb00ad" name="Changes" comment="test commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/structural/ForRebaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/structural/ForRebaseClass.java" afterDir="false" />
+
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +33,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="shamil" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="6c19bc95155e3afd94fc57871a589196315f8526" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -34,6 +52,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AdapterPatternDemo.executor": "Run",
@@ -70,9 +89,50 @@
   "keyToStringList": {
     "DatabaseDriversLRU": [
       "postgresql"
+
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdapterPatternDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ApplicationCreator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjectRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Software.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sh.tech.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sh.tech.for_factory.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sh.tech.lesson3.builder.setter_based.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sh.tech.lesson3.factory.example2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sh.tech.lesson3.singleton.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sh.tech.lesson3_patterns.abstract_factory.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sh.tech.lesson3_patterns.prototype.example1.example2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sh.tech.lesson3_patterns.prototype.example2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sh.tech.lesson4_patterns.adapter.example2.AdapterPatternDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;shamil&quot;,
+
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shami/Desktop/MS-26/java_proyects/ingress-ms-lessons&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/shami/Desktop/MyJavaProjects/ingress-ms-lessons/src/main/java/sh/tech/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;database.query.execution&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\shami\Desktop\MS-26\java_proyects\ingress-ms-lessons\src\main\java\sh\tech\lesson2_solid" />
@@ -190,6 +250,7 @@
       <workItem from="1717332467596" duration="2900000" />
       <workItem from="1717360086825" duration="5000" />
       <workItem from="1717443615811" duration="4428000" />
+
       <workItem from="1717531479969" duration="2058000" />
     </task>
     <task id="LOCAL-00001" summary="builder, bridge, proxy patterns">
@@ -199,6 +260,7 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1717533352045</updated>
+
     </task>
     <task id="LOCAL-00002" summary="builder, bridge, proxy patterns">
       <option name="closed" value="true" />
@@ -208,6 +270,17 @@
       <option name="project" value="LOCAL" />
       <updated>1717533368794</updated>
     </task>
+
+    </task>
+    <task id="LOCAL-00002" summary="builder, bridge, proxy patterns">
+      <option name="closed" value="true" />
+      <created>1717533368794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717533368794</updated>
+    </task>
+
     <task id="LOCAL-00003" summary="builder, bridge, proxy patterns">
       <option name="closed" value="true" />
       <created>1717533396001</created>
@@ -217,13 +290,79 @@
       <updated>1717533396001</updated>
     </task>
     <option name="localTasksCounter" value="4" />
+
+
+
+    </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <option name="closed" value="true" />
+      <created>1717593403387</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717593403387</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test commit">
+      <option name="closed" value="true" />
+      <created>1717593467063</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717593467064</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+
   <component name="VcsManagerConfiguration">
     <MESSAGE value="builder, bridge, proxy patterns" />
     <option name="LAST_COMMIT_MESSAGE" value="builder, bridge, proxy patterns" />
+
+
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="builder, bridge, proxy patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="builder, bridge, proxy patterns" />
+
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="shamil" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+
+
   </component>
 </project>

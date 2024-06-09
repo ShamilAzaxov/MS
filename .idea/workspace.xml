@@ -6,10 +6,16 @@
   <component name="ChangeListManager">
 
     <list default="true" id="7b1986f0-8853-4a2b-8678-46a1e9cb00ad" name="Changes" comment="builder, bridge, proxy patterns">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/structural/ForAmendClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/ApplicationCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/bridge/ApplicationCreator.java" afterDir="false" />
+
+
+    <list default="true" id="7b1986f0-8853-4a2b-8678-46a1e9cb00ad" name="Changes" comment="builder, bridge, proxy patterns">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 
     <list default="true" id="7b1986f0-8853-4a2b-8678-46a1e9cb00ad" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/structural/ForRebaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sh/tech/lesson4_patterns/structural/ForRebaseClass.java" afterDir="false" />
+
 
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +52,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdapterPatternDemo.executor": "Run",
+    "Application.ApplicationCreator.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.ProjectRunner.executor": "Run",
+    "Application.Software.executor": "Run",
+    "Application.sh.tech.Main.executor": "Run",
+    "Application.sh.tech.for_factory.Main.executor": "Run",
+    "Application.sh.tech.lesson3.builder.setter_based.Main.executor": "Run",
+    "Application.sh.tech.lesson3.factory.example2.Main.executor": "Run",
+    "Application.sh.tech.lesson3.singleton.Main.executor": "Run",
+    "Application.sh.tech.lesson3_patterns.abstract_factory.Main.executor": "Run",
+    "Application.sh.tech.lesson3_patterns.prototype.example1.example2.Main.executor": "Run",
+    "Application.sh.tech.lesson3_patterns.prototype.example2.Main.executor": "Run",
+    "Application.sh.tech.lesson4_patterns.adapter.example2.AdapterPatternDemo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "shamil",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shami/Desktop/MS-26/java_proyects/ingress-ms-lessons",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/shami/Desktop/MyJavaProjects/ingress-ms-lessons/src/main/java/sh/tech/Main.java",
+    "settings.editor.selected.configurable": "database.query.execution",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.AdapterPatternDemo.executor&quot;: &quot;Run&quot;,
@@ -85,6 +129,7 @@
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
       &quot;postgresql&quot;
+
     ]
   }
 }</component>
@@ -215,6 +260,7 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1717533352045</updated>
+
     </task>
     <task id="LOCAL-00002" summary="builder, bridge, proxy patterns">
       <option name="closed" value="true" />
@@ -224,6 +270,17 @@
       <option name="project" value="LOCAL" />
       <updated>1717533368794</updated>
     </task>
+
+    </task>
+    <task id="LOCAL-00002" summary="builder, bridge, proxy patterns">
+      <option name="closed" value="true" />
+      <created>1717533368794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717533368794</updated>
+    </task>
+
     <task id="LOCAL-00003" summary="builder, bridge, proxy patterns">
       <option name="closed" value="true" />
       <created>1717533396001</created>
@@ -233,6 +290,8 @@
       <updated>1717533396001</updated>
     </task>
     <option name="localTasksCounter" value="4" />
+
+
 
     </task>
     <task id="LOCAL-00001" summary="test commit">
@@ -253,11 +312,17 @@
     </task>
     <option name="localTasksCounter" value="3" />
 
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="builder, bridge, proxy patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="builder, bridge, proxy patterns" />
+
 
   <component name="VcsManagerConfiguration">
     <MESSAGE value="builder, bridge, proxy patterns" />
@@ -297,6 +362,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
     <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+
 
   </component>
 </project>
